@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-container {
+  position: relative;
+  top: -100%;
+  left: 0;
+  right: 0;
+  width: 50%;
+
+  background-color: white;
+}
+
+.show-container {
+}
